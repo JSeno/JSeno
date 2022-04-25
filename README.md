@@ -5,8 +5,8 @@
 </div>
 <div style="display: in_block"><br><br>
   
-  <img aling="top" alt="Aprendendo" height="40" width="40" src="https://img.icons8.com/clouds/100/000000/learning.png">
-  <img align="top" alt="Python" height="40" width="40" src="https://img.icons8.com/stickers/100/000000/python.png">
+  <img aling="top" title="Aprendendo" alt="Aprendendo" height="40" width="40" src="https://img.icons8.com/clouds/100/000000/learning.png">
+  <img align="top" title="Por enquanto python" alt="Python" height="40" width="40" src="https://img.icons8.com/stickers/100/000000/python.png">
 </div>
   
   ##
