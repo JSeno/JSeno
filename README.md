@@ -1,4 +1,4 @@
-<div align="center">
+<div align="justify">
 
   <a href="https://github.com/JSeno">
   
@@ -14,5 +14,7 @@
 ![Snake animation](https://github.com/jseno/jseno/blob/output/github-contribution-grid-snake.svg)
 
   ##
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeno&repo=aula_tkinter&show_icons=true&theme=vision-friendly-dark)](https://github.com/JSeno/aula_tkinter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeno&repo=cypress_aprendizado&show_icons=true&theme=vision-friendly-dark)](https://github.com/JSeno/cypress_aprendizado)
+
