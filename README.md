@@ -15,7 +15,10 @@
 
   ##
 
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSeno&theme=vision-friendly-dark)]
+  
+  ##
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeno&repo=aula_tkinter&show_icons=true&theme=vision-friendly-dark)](https://github.com/JSeno/aula_tkinter)
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeno&repo=cypress_aprendizado&show_icons=true&theme=vision-friendly-dark)](https://github.com/JSeno/cypress_aprendizado)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSeno)]
