@@ -10,7 +10,7 @@
   
   ##
  
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSeno&theme=vision-friendly-dark)]
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSeno&theme=vision-friendly-dark)](https://wakatime.com/@JSeno)
   
   ##
   
