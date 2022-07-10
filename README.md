@@ -1,9 +1,9 @@
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSeno&layout=default&show_icons=true&theme=vision-friendly-dark)&nbsp;  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSeno&show_icons=true&layout=default&theme=vision-friendly-dark)](https://github.com/JSeno/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSeno&show_icons=true&layout=default&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSeno&layout=compact&show_icons=true&theme=vision-friendly-dark&langs_count=12)](https://github.com/JSeno/github-readme-stats)&nbsp;  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSeno&layout=compact&show_icons=true&theme=vision-friendly-dark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)&nbsp;  
 
 
 ##
