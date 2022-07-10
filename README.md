@@ -1,10 +1,9 @@
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSeno&layout=default&show_icons=true&theme=vision-friendly-dark)
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSeno&layout=compact&show_icons=true&theme=vision-friendly-dark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats) 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JSeno&theme=vision-friendly-dark&show_icons=true)](https://wakatime.com/@JSeno)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSeno&layout=default&show_icons=true&theme=vision-friendly-dark)&nbsp;  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSeno&layout=compact&show_icons=true&theme=vision-friendly-dark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)&nbsp;  
+[![wakatime](https://wakatime.com/badge/user/84bf05b8-8300-4a47-8855-dd5646504a2d.svg)](https://wakatime.com/@84bf05b8-8300-4a47-8855-dd5646504a2d)
 ##
   
 ![Snake animation](https://github.com/jseno/jseno/blob/output/github-contribution-grid-snake.svg)
