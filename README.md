@@ -13,8 +13,8 @@
 ##
   
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeno&repo=aula_tkinter&show_icons=true&theme=vision-friendly-dark)](https://github.com/JSeno/aula_tkinter&show_owner=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeno&repo=cypress_aprendizado&show_icons=true&theme=vision-friendly-dark)](https://github.com/JSeno/cypress_aprendizado&show_owner=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeno&repo=aula_tkinter&show_icons=true&theme=vision-friendly-dark&show_owner=true)](https://github.com/JSeno/aula_tkinter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeno&repo=cypress_aprendizado&show_icons=true&theme=vision-friendly-dark&show_owner=true)](https://github.com/JSeno/cypress_aprendizado)
 ##
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeno&repo=udemy_js&layout=default&show_icons=true&theme=vision-friendly-dark)](https://github.com/JSeno/udemy_js&show_owner=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeno&layout=default&repo=100DaysofCode&show_icons=true&theme=vision-friendly-dark)](https://github.com/JSeno/100DaysofCode&show_owner=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeno&repo=udemy_js&layout=default&show_icons=true&theme=vision-friendly-dark&show_owner=true)](https://github.com/JSeno/udemy_js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JSeno&layout=default&repo=100DaysofCode&show_icons=true&theme=vision-friendly-dark&show_owner=true)](https://github.com/JSeno/100DaysofCode)
